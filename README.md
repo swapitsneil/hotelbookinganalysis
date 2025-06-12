@@ -1,13 +1,15 @@
 # hotelbookinganalysis
-Hotel Booking Analysis Visualizations using Excel
+🏨 Hotel Booking Analysis Visualizations using Excel
+
 This repository contains a hotel booking analysis project with visualizations that address key problem statements. The project uses a dataset of hotel bookings to derive insights through charts and graphs, focusing on trends, cancellations, revenue, and guest behavior.
-Project Overview
+
+📋 Project Overview
 
 Dataset: A hotel booking dataset with fields like booking ID, hotel type (resort or city), arrival date, room type, meal plan, booking channel, cancellation status, and pricing.
 Tools: Visualizations were created using Microsoft Excel.
 Objective: To analyze hotel booking data and present findings through visuals that address specific problem statements.
 
-Problem Statements
+❓ Problem Statements
 The following problem statements are addressed in this project, with corresponding visualizations:
 
 What are the booking trends over time?  
@@ -67,19 +69,20 @@ Insight: Supports planning for staffing, pricing, and marketing during peak seas
 
 
 
-Files in the Repository
+📁 Files in the Repository
 
 Hotel analysis.xlsx: Excel file containing the dataset and visualizations for the above problem statements.
 Hotel analysis.csv: Raw dataset used for the analysis.
 
-How to Use
+🚀 How to Use
 
 Clone or download the repository.
 Open Hotel analysis.xlsx in Microsoft Excel to explore the visualizations.
 Use the raw dataset (Hotel analysis.csv) to reproduce or extend the analysis in Excel or other tools.
 
-Insights
+💡 Insights
 
 Bookings peak during summer months, suggesting a need for increased staffing.
 City hotels have higher cancellation rates, possibly due to business travel patterns.
 Online booking channels generate the most revenue, indicating a focus area for digital marketing.
+

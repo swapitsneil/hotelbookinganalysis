@@ -12,56 +12,56 @@ Objective: To analyze hotel booking data and present findings through visuals th
 ❓ Problem Statements
 The following problem statements are addressed in this project, with corresponding visualizations:
 
-What are the booking trends over time?  
+1. What are the booking trends over time?  
 
 Analyze the number of bookings per month or year to identify seasonal patterns.  
 Visual: Line chart showing monthly booking trends from 2015 to 2017.  
 Insight: Helps in understanding peak booking periods for better resource planning.
 
 
-What is the cancellation rate, and how does it vary by hotel type and booking channel?  
+2. What is the cancellation rate, and how does it vary by hotel type and booking channel?  
 
 Calculate the overall cancellation rate and compare it across resort vs. city hotels and booking channels (e.g., online, offline, travel agents).  
 Visual: Bar chart comparing cancellation rates across different categories.  
 Insight: Identifies factors contributing to cancellations, such as booking channel or hotel type.
 
 
-How is revenue distributed across hotel types, and what is the average daily rate (ADR) by room type?  
+3. How is revenue distributed across hotel types, and what is the average daily rate (ADR) by room type?  
 
 Compute total revenue for resort and city hotels and calculate ADR for different room types.  
 Visual: Pie chart for revenue distribution; bar chart for ADR by room type.  
 Insight: Highlights which hotel type or room type generates the most revenue.
 
 
-Which countries and market segments contribute the most to bookings?  
+4. Which countries and market segments contribute the most to bookings?  
 
 Analyze bookings by country and market segment (e.g., online, offline, corporate).  
 Visual: Bar chart of top 10 countries; pie chart for market segments.  
 Insight: Identifies key markets for targeted marketing strategies.
 
 
-Which room types are the most popular, and what are their occupancy rates?  
+5. Which room types are the most popular, and what are their occupancy rates?  
 
 Determine the most booked room types and calculate their occupancy rates.  
 Visual: Bar chart showing booking counts by room type.  
 Insight: Reveals high-demand room types for inventory management.
 
 
-How does lead time affect cancellations?  
+6. How does lead time affect cancellations?  
 
 Study the distribution of lead times and their relationship with cancellation rates.  
 Visual: Histogram of lead times with a trendline for cancellation rates.  
 Insight: Shows if longer lead times correlate with higher cancellations.
 
 
-How do different booking channels perform in terms of bookings and revenue?  
+7. How do different booking channels perform in terms of bookings and revenue?  
 
 Compare bookings and revenue from channels like online, offline, and travel agents.  
 Visual: Stacked bar chart showing bookings and revenue by channel.  
 Insight: Evaluates the effectiveness of each booking source.
 
 
-How does seasonality impact bookings and revenue?  
+8. How does seasonality impact bookings and revenue?  
 
 Identify peak and off-peak seasons and their effect on bookings and revenue.  
 Visual: Line chart showing monthly booking volumes and revenue.  

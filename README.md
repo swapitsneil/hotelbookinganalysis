@@ -3,6 +3,11 @@
 
 This repository contains a hotel booking analysis project with visualizations that address key problem statements. The project uses a dataset of hotel bookings to derive insights through charts and graphs, focusing on trends, cancellations, revenue, and guest behavior.
 
+excel dashboard
+![Image](https://github.com/user-attachments/assets/1ce1548c-5de6-4f4e-9a49-15a3d7824dda)
+
+![Image](https://github.com/user-attachments/assets/48735e2d-8e6d-4aa4-b1af-b773a3677273)
+
 📋 Project Overview
 
 Dataset: A hotel booking dataset with fields like booking ID, hotel type (resort or city), arrival date, room type, meal plan, booking channel, cancellation status, and pricing.

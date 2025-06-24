@@ -8,6 +8,11 @@ excel dashboard
 
 ![Image](https://github.com/user-attachments/assets/48735e2d-8e6d-4aa4-b1af-b773a3677273)
 
+powerbi dashboard
+
+![Image](https://github.com/user-attachments/assets/a3008849-fa1b-495d-85f0-171468da6bf2)
+
+
 📋 Project Overview
 
 Dataset: A hotel booking dataset with fields like booking ID, hotel type (resort or city), arrival date, room type, meal plan, booking channel, cancellation status, and pricing.
